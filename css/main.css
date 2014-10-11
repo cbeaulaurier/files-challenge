@@ -1,8 +1,14 @@
 body {
 	font-family: Helvetica, sans-serif;
-	font-size: 18px;
+	font-size: 16px;
 }
 
 img {
 	max-width: 600px;
+}
+
+a:link,
+a:visited {
+	text-decoration: none;
+	color: #0000FF;
 }
